@@ -1,4 +1,4 @@
-# How to Setup a Raspberry PI With No Keyboard, No Mouse and No Ethernet Cable
+# How to Setup a Raspberry PI Without Keyboard, No Mouse and No Ethernet Cable
 
 # Table of contents
 1. [Introduction](#introduction)
